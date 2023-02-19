@@ -22,9 +22,6 @@ https://0talk-a-tive0.netlify.app/
 
 Clone the project
 
-```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
-```
 
 Go to the project directory
 
@@ -76,12 +73,7 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
 ### View Other user Profile
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+
 
   
-# Chat-app-Backend
-# Chat-app-Backend
-# Chat-App-Backend
-# Chat-App-Backend
